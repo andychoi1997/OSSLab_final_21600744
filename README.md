@@ -1,17 +1,25 @@
 # OSSLab_Final_Project_21600744
 This is final project for OSS class
 
+My project operate Ping_Pong game on raspberry pi
+
+The header file <coino.h> was not available in the Linux environment, so it implemented the direct console funtionally.
+
 # What does this project do?
-Ping Pong Game on C++
-This game takes a consoles input/output base approach on displaying objects and controlling the game.
+This project is a ping pong game implemented using C++
 
-# How to play:
-- I key : to move right blade up
-- K key : to move right blade down
-- W key : to move left blade up
-- S key : to move left blade down
+This game takes a console input/output based approach on displaying objects and controlling the game.
 
-# Classes:
-- Ball : to store position of ball
-- Blade : to store position of blades.
-- Game : to display the ball and blades and implement the logic
+# Why is this project useful?
+이 프로젝트가 유용한 이유는 리눅스 환경에서 사용하지 못하는 기능을 함수로 구현하여 사용하였다.
+
+# How do I get started?
+1.turn on raspberry pi and log in your terminal.
+2. clone this repository. under your any directory.
+3. 
+4. when you execute the file, you can use it according to instruction
+
+
+# Where can I get more help, if I need it?
+You can get help by Google, or email me by sending message to "21600744@handong.edu"
+
