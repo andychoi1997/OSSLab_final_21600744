@@ -11,15 +11,15 @@ This project is a ping pong game implemented using C++
 This game takes a console input/output based approach on displaying objects and controlling the game.
 
 # Why is this project useful?
-이 프로젝트가 유용한 이유는 리눅스 환경에서 사용하지 못하는 기능을 함수로 구현하여 사용하였다.
+The reason why this project is useful is that you can study keystroke functions that can replace header file functions that are only available in Windows environments. The game starts when the rubber key is entered.
 
 # How do I get started?
-1.turn on raspberry pi and log in your terminal.
+1. turn on raspberry pi and log in your terminal.
 2. clone this repository. under your any directory.
-3. 
-4. when you execute the file, you can use it according to instruction
-
+3. run the makefile.
+4. run the executable and play when the game start.
 
 # Where can I get more help, if I need it?
 You can get help by Google, or email me by sending message to "21600744@handong.edu"
 
+# URL for presentation Video(Youtube)
